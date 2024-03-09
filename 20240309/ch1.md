@@ -32,7 +32,5 @@ mvc 패턴이라고 함
   모델: 데이터베이스와 밀접한 관계를 갖고 비즈니스 로직을 담당함 (데이터베이스에 있는걸 class에 만듬 string name, string money)
   뷰: 클라이언트와 밀접한 관계를 갖고 비즈니스 로직의 결과를 출력하기 위한 화면 구성을 담당함 (결과를 출력함 )
   컨트롤러: 클라이언트의 요청에 대해 모델과 뷰를 컨트롤함 (컨트롤러를 나눠서 요청한 컨트롤러에 client 의 요청을 보내서 그에 맞는 model에 보낸다.)
-
-  ![image](https://github.com/limsangwoons/spring-study/assets/116055397/6b72ca20-9451-4610-b387-b8d06997acbe)
-
 </pre>
+![image](https://github.com/limsangwoons/spring-study/assets/116055397/6b72ca20-9451-4610-b387-b8d06997acbe)
